@@ -1,8 +1,8 @@
 ## Getting Started
 
-First, 
-
 Install the node modules to get started
+
+Please note: I could only see the figma frame with hand tool and not the pointer(requires login & access), so the styles are closely estimated as the actual style information on style viewer couldn't be accessed for component styles and measurements on figma.
 
 Run the development server:
 
